@@ -1,4 +1,4 @@
-# String-Search-Algorithms
+# string-search-algorithms
 The project implements the brute force and KMP string search algorithms to enable searching in the text editor.
 The search method in Search class takes two arguments: the text to search through and the string to search for. The method returns an integer as follows:
 * The starting index of the first match in the text if one exists.
